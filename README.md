@@ -1,2 +1,2 @@
-# OCR_pipeline
-State of the art OCR Pipeline
+# State of the Art Optical Character Reader Pipeline
+
